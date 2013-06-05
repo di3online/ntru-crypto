@@ -1,4 +1,5 @@
 Coming Soon!!
+============
 
 ntru-crypto
 ===========
@@ -30,13 +31,13 @@ How fast is NTRU?
 -----------------
 At comparable cryptographic strength, NTRU performs the costly private key operations much faster than RSA. 
 
-Security  NTRU Key Size     ECC   RSA     NTRU Ops/Sec.   ECC   RSA
-Level     Std.    Opt.       Key Size     Std.    Opt.     Ops/Sec.
-112       5951	  4411	    224	  2048	  2284	  10638	  951	  156
-128	      6743	  4829	    256	  4096	  1896	  9901	  650	  12
-192	      9757	  6523	    384	  7680	  1034	  6849	  285	  8
-256	      12881	  8173	    512	  15360	  638	    5000	  116	  1
-
+    Security  NTRU Key Size     ECC   RSA     NTRU Ops/Sec.   ECC   RSA
+    Level     Std.    Opt.       Key Size     Std.    Opt.     Ops/Sec.
+    112       5951	  4411	    224	  2048	  2284	  10638	  951	  156
+    128	      6743	  4829	    256	  4096	  1896	  9901	  650	  12
+    192	      9757	  6523	    384	  7680	  1034	  6849	  285	  8
+    256	      12881	  8173	    512	  15360	  638     5000	  116	  1
+    
 
 Much of the performance impact in SSL comes from the use of public key cryptography, which is used to initiate new sessions (session “handshakes”).  During session handshakes, the main public key activity consuming server resources is decryption of the session key provided by each client.  Performance increases in decryption have a significant impact on server performance. At current levels of activity, for a server using NTRU, the server time spent peforming public key cryptography will become negligible. CyaSSL+NTRU, a product that uses the algoritm runs 20x to 200x faster than openSSL RSA.
 
