@@ -8,7 +8,10 @@ Open Source NTRU Public Key Cryptography and Reference Code
 
 Project Overview
 ================
-Security Innovation, the owner of the NTRU public key cryptography system, made the intellectual property and a sample implementation available under the Gnu Public License (GPL) in 2013 with the goal of enabling more widespread adoption of this superior cryptographic technology.  NTRU represents a significant improvement in the Public Key cryptography world—it’s faster, stronger and smaller than virtually any other system in use and it’s quantum computer resistant, making it the best choice for current projects with lifetimes that extend into the post quantum computer age.  
+Security Innovation, the owner of the NTRU public key cryptography system, made the intellectual property and a sample implementation available under the Gnu Public License (GPL) in 2013 with the goal of enabling more widespread adoption of this superior cryptographic technology. The system is also available for commercial use under the terms of the Security Innovation Commercial License.
+
+NTRU represents a significant improvement in the Public Key cryptography world—it’s faster, stronger and smaller than virtually any other system in use and it’s quantum computer resistant, making it the best choice for current projects with lifetimes that extend into the post quantum computer age.  
+
 Here are a few facts about the system:
 
 What is NTRU?
