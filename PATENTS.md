@@ -1,6 +1,6 @@
 NTRU Patent Licensing
 =======================
-Security Innovation NTRU cryptographic software invention and reference source code including NTRUCrypt and NTRUSign/PASS is a **dual license** product and includes open source and standard commercial licensing. 
+Security Innovation NTRU cryptographic software invention and reference source code including NTRUCrypt and NTRUSign/PASS is a **dual license** product available under open source and standard commercial licensing. 
 
 GPL
 ===========
