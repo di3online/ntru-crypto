@@ -17,12 +17,15 @@ Contacts may be reached by sending mail to ntru-crypto@securityinnovation.com
 
 Project Overview
 ================
-Security Innovation, the owner of the NTRU public key cryptography system, made the intellectual property and a sample implementation available under the Gnu Public License (GPL) in 2013 with the goal of enabling more widespread adoption of this superior cryptographic technology. The system is also available for commercial use under the terms of the Security Innovation Commercial License.
+Security Innovation, Inc., the owner of the NTRU public key cryptography system, made the intellectual property and a sample implementation available under the Gnu Public License (GPL) in 2013 with the goal of enabling more widespread adoption of this superior cryptographic technology. The system is also available for commercial use under the terms of the Security Innovation Commercial License.
 
 NTRU represents a significant improvement in the Public Key cryptography world—it’s faster, stronger and smaller than virtually any other system in use and it’s quantum computer resistant, making it the best choice for current projects with lifetimes that extend into the post quantum computer age.  
 
-Here are a few facts about the system:
+For additional overview information click https://www.securityinnovation.com/products/encryption-libraries/ntru-cryptography.html
 
+
+FAQ
+===
 What is NTRU?
 -------------
 NTRU is an asymmetric (public/private key) cryptosystem.  It is a leading alternative to RSA and ECC as it is faster and quantum resistant.  There are two NTRU based algorithms:  NTRU Encrypt and NTRU Sign.  Both cryptosystems are being released under GPL. The portable C/C++ & Java implementation in this project is also available under GPL.
