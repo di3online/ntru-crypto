@@ -8,11 +8,9 @@ Open Source NTRU Public Key Cryptography Algorithm and Reference Code
 
 Key Contacts:
 
-Dr. William Whyte
-
-Dr. Mark Etzel
-
-Mr. Peter Jenney
+* Dr. William Whyte
+* Dr. Mark Etzel
+* Mr. Peter Jenney
 
 
 Contacts may be reached by sending mail to ntru-crypto@securityinnovation.com
