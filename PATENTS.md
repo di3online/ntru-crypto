@@ -2,9 +2,9 @@ NTRU Patent Licensing
 =======================
 Security Innovation NTRU cryptographic software invention and reference source code including NTRUCrypt and NTRUSign/PASS is a **dual license** product and includes open source and standard commercial licensing. 
 
-Open Source
+GPL
 ===========
-NTRU cryptographic reference software is free software and may be modified to the needs of the user as long as the user adheres to version three of the GPL License. For  details please refer to COPYING.md included in this distribution. The GPLv3 license may also be found on the gnu.org website (https://gnu.org/licenses/gpl.html).
+NTRU cryptographic patents may be used  as long as the user adheres to version three of the GPL License. For  details please refer to COPYING.md included in this distribution. The GPLv3 license may also be found on the gnu.org website (https://gnu.org/licenses/gpl.html).
 
 Commercial Licensing
 ====================
