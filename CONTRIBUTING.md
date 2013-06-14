@@ -1,7 +1,13 @@
 Contributing to ntru-crypto
 ============================
-This page describes how to contribute to the NTRU GitHub source control repository and the various ways to interact with the code and other assets.  Contributions to the project will come in various forms including changes/improvements to the reference code, attacks against the algorithm, attacks against the reference code, implementation documentation, test vectors and other such things.    
+This page describes how to contribute to the NTRU GitHub source control repository and the various ways to interact with the code and other assets.  Contributions to the project will come in various forms including changes/improvements to the reference code, attacks against the algorithm, attacks against the reference code, implementation documentation, test vectors and other such things.   
 
+Contributor Agreement
+=====================
+You must read, sign and return the CONTRIBUTOR AGREEMENT included in this distribution.  Signed copies may either be converted to PDF and mailed to ntru-crypto@securityinnovation.com or faxed to +1.978.694.1666.  
+
+Content
+=======
 **Key branches**
 1.	master is the latest, deployed version.
 
