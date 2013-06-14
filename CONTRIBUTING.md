@@ -9,6 +9,7 @@ You must read, sign and return the CONTRIBUTOR AGREEMENT included in this distri
 Content
 =======
 **Key branches**
+
 1.	master is the latest, deployed version.
 
 2.	gh-pages is the hosted docs (not to be used for pull requests).
