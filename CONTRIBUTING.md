@@ -4,7 +4,7 @@ This page describes how to contribute to the NTRU GitHub source control reposito
 
 Contributor Agreement
 =====================
-You must read, sign and return the CONTRIBUTOR AGREEMENT included in this distribution.  Signed copies may either be converted to PDF and mailed to ntru-crypto@securityinnovation.com or faxed to +1.978.694.1666.  
+To contribute code you must read, sign and return the CONTRIBUTOR AGREEMENT included in this distribution.  Signed copies may either be converted to PDF and mailed to ntru-crypto@securityinnovation.com or faxed to +1.978.694.1666.  
 
 Content
 =======
