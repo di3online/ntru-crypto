@@ -48,8 +48,8 @@ Copyright and Attestation
 ===========
 Security Innovation, Inc. retains ownership and copyright to all code in the project including that which is contributed by Security Innovation and all third parties. If you make substantive changes to a file or create new assets, you may wish to add a copyright line for yourself or for the company on whose behalf you work in addition to the standard required copyright heading below. Some sample copyright lines for an individual contributor and a company:
 
-Copyright (C) 2011 John Smith (jsmith@example.com)
-Copyright (C) 2011 Company Inc. All rights reserved.
+ * Copyright (C) 2011 John Smith (jsmith@example.com)
+ * Copyright (C) 2011 Company Inc. All rights reserved.
 
 Make sure that any new source code or assets you introduce reference the project dual license text at the beginning of the file. If you are the author of a new file, preferred license text is:
 
